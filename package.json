@@ -6,7 +6,10 @@
   "scripts": {
     "dev": "nodemon server.js",
 "start":"node server.js",
-    "build": "node client/dist-build-script.js"
+   "scripts": {
+  "dev": "nodemon server.js",
+  "start": "node server.js"
+}
   },
   "keywords": ["task-manager", "api"],
   "author": "",
